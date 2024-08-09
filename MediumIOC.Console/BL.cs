@@ -8,7 +8,7 @@ namespace MediumIOC.Console
 {
     internal class BL
     {
-        private readonly DAL _dal;
+        private readonly IDAL _dal;
 
         public BL()
         {

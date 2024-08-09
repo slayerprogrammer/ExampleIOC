@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediumIOC.Console
 {
-    internal class DAL
+    internal class DAL : IDAL
     {
         public List<Product> GetProducts()
         {
