@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediumIOC.Console", "MediumIOC.Console\MediumIOC.Console.csproj", "{7935161E-FB3F-47F8-9169-31AAEF189B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediumIOC.Console", "MediumIOC.Console\MediumIOC.Console.csproj", "{7935161E-FB3F-47F8-9169-31AAEF189B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediumIOC.Web", "MediumIOC.Web\MediumIOC.Web.csproj", "{B05D8A1B-25C9-42E3-9257-47E093D9DE4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7935161E-FB3F-47F8-9169-31AAEF189B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7935161E-FB3F-47F8-9169-31AAEF189B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7935161E-FB3F-47F8-9169-31AAEF189B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05D8A1B-25C9-42E3-9257-47E093D9DE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05D8A1B-25C9-42E3-9257-47E093D9DE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05D8A1B-25C9-42E3-9257-47E093D9DE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05D8A1B-25C9-42E3-9257-47E093D9DE4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
